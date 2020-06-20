@@ -104,7 +104,7 @@ function myFunction(arr) {
         setTimeout(function () {
             i = i + 1;
             myFunction(myArr);
-        }, 4000);
+        }, 2000);
 
     }
 
@@ -116,7 +116,7 @@ function myFunction(arr) {
         setTimeout(function () {
             i = i + 1;
             myFunction(myArr);
-        }, 4000);
+        }, 2000);
 
     }
 
@@ -128,7 +128,7 @@ function myFunction(arr) {
         setTimeout(function () {
             i = i + 1;
             myFunction(myArr);
-        }, 4000);
+        }, 2000);
 
     }
 
@@ -140,7 +140,7 @@ function myFunction(arr) {
         setTimeout(function () {
             i = i + 1;
             myFunction(myArr);
-        }, 4000);
+        }, 2000);
 
     }
 
